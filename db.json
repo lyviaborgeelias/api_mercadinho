@@ -1,0 +1,52 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "email": "lyvia@gmail.com",
+            "senha": "1234"
+        },
+        {
+            "id": 2,
+            "email": "evelyn@gmail.com",
+            "senha": "evelyn1234"
+        },
+        {
+            "id": 3,
+            "email": "nayra@gmail.com",
+            "senha": "nayrinha"
+        }
+    ],
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Shampoo do Cristiano Ronaldo",
+            "preco": 20.00,
+            "imagem": "https://assets.unileversolutions.com/v1/1663873.png" 
+        },
+        {
+            "id": 2,
+            "nome": "Desodorante Old Spice",
+            "preco": 14.00,
+            "imagem": "https://dmvfarma.vtexassets.com/arquivos/ids/321062-800-auto?v=639167142288130000&width=800&height=auto&aspect=true" 
+        },
+        {
+            "id": 3,
+            "nome": "Energético Monster",
+            "preco": 8.00,
+            "imagem": "https://edge.osuper.com.br/hq4pwmJtXRh0Fc2H67MJ0GWU15U=/1600x0/smart/https://osuper-ecommerce-koch.s3.sa-east-1.amazonaws.com/a431a7cc-EnergticoMonsterUltraStrawberryDreams473ml_72793.png" 
+        },
+        {
+            "id": 4,
+            "nome": "Snickers",
+            "preco": 4.00,
+            "imagem": "https://www.snickers.com/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png" 
+        },
+        {
+            "id": 5,
+            "nome": "Creme Widi Care",
+            "preco": 35.00,
+            "imagem": "https://widicare.com.br/wp-content/uploads/2024/08/CREME-FORTE-SITE.png" 
+        }
+    ]
+
+}
