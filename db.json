@@ -19,6 +19,7 @@
             "admin": false
         }
     ],
+    
     "produtos": [
         {
             "id": 1,
@@ -50,6 +51,7 @@
             "preco": 35.00,
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmp7o9L8vcH3p53N1Amk3AygQ-NJIgrffOC02rR9Zqgw&s=10" 
         }
-    ]
+    ],
 
+    "pedidos": []
 }
