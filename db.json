@@ -3,17 +3,20 @@
         {
             "id": 1,
             "email": "lyvia@gmail.com",
-            "senha": "1234"
+            "senha": "1234",
+            "admin": true
         },
         {
             "id": 2,
             "email": "evelyn@gmail.com",
-            "senha": "evelyn1234"
+            "senha": "evelyn1234",
+            "admin": false
         },
         {
             "id": 3,
             "email": "nayra@gmail.com",
-            "senha": "nayrinha"
+            "senha": "nayrinha",
+            "admin": false
         }
     ],
     "produtos": [
